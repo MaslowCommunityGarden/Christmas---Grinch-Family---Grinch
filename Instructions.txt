@@ -1,0 +1,6 @@
+Thank you for downloading Grinch. 
+Grinch is set up for 3/4 in depth board and he is 46 inches high. He is also set up for two tool paths. The first is the 
+outline that is drawn with the pen holder and sharpie marker, and the second is a 1/4 in router bit. I have included
+the drawing in svg format as well as the svg that is loaded into maker cam. I did not include cut file because there are 
+two areas that can break off and cause problems if it not watched. They are inside the hand and inside the santa hat.
+I brad nailed these two areas. You can also place tabs in these areas as well. Enjoy! 
